@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config['base_url'] = 'https://teguhwinarno19.github.io/WTP-IOT/';
 
+
 /*
 |--------------------------------------------------------------------------
 | Index File
